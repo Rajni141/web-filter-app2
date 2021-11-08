@@ -1,0 +1,30 @@
+body {
+
+background-color: cadetblue;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+text-align: center;
+text-decoration: crimson;
+}
+
+button {
+
+   text-shadow: 2cm;
+   text-decoration-color: aliceblue;
+   text-decoration: underline;
+   font-weight: 600; 
+
+}
+
+h2 {
+
+
+    font-size: 42px;
+    background-color: antiquewhite;
+    color: black;
+    font-family: monospace;
+    font-weight: bold;
+    text-shadow: darkslategrey;
+
+
+}
